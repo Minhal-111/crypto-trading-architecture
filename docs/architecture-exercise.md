@@ -17,7 +17,7 @@ The goal of this proposal is to evolve the architecture into a low-latency, obse
 
 ---
 # Target Architecture
-
+```text
 Binance WebSocket
         ↓
 Market Data Service
